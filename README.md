@@ -1,5 +1,5 @@
 [![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://github.com/SESYNC-ci/sesync-ci.github.io/blob/master/lesson/lesson-lifecycle.md#stable)
-[![DOI](https://zenodo.org/badge/60860273.svg)](https://doi.org/{{ site.data.lesson.doi }})
+[![DOI](https://zenodo.org/badge/60860273.svg)](https://doi.org/10.5281/zenodo.5705383)
 
 ## Basic R Lesson
 
